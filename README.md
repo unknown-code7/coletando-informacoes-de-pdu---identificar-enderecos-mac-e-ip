@@ -1,4 +1,4 @@
-# 🔍 Cisco NetAcad: Coletando Informações de PDU - Identificar Endereços MAC e IP
+# 🔍 Coletando Informações de PDU - Identificar Endereços MAC e IP
 
 ---
 
