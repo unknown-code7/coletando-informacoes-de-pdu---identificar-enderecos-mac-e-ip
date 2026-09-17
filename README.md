@@ -4,7 +4,7 @@
 
 ## 📌 Sobre o Laboratório
 
-Neste laboratório da série **Cisco NetAcad**, exploramos a inspeção de quadros Ethernet (Camada 2) e pacotes IP (Camada 3) à medida que trafegam de uma origem até um destino local ou remoto. 
+Neste laboratório da **Série: Laboratórios Cisco NetAcad**, exploramos a inspeção de quadros Ethernet (Camada 2) e pacotes IP (Camada 3) à medida que trafegam de uma origem até um destino local ou remoto. 
 
 O objetivo é compreender como os endereços **MAC** e **IP** se comportam ao longo da jornada dos dados, identificando alterações de cabeçalhos nos saltos de rede e analisando o papel do gateway padrão (*Default Gateway*).
 
@@ -156,16 +156,6 @@ ping 10.10.10.2
 *R: Porque a função fundamental de um roteador é interconectar redes IP distintas, servindo como a ponte (gateway) de comunicação entre diferentes domínios de broadcast.*
 15. **Quais redes IP estão conectadas pelo roteador?**
 *R: A rede `172.16.31.0/24` e a rede `10.10.10.0/24`.*
-
----
-
-### 🛠️ O que desenvolvi nesta série (Simulado no Cisco Packet Tracer)
-
-* **Inspeção de Cabeçalhos & Análise de PDUs:** Mapeei a coleta de informações de Protocol Data Units (PDUs), auditando a transição de endereços MAC em Camada 2 e IPs em Camada 3.
-* **Segurança de Borda & ACLs em Firewalls:** Configuração do **Cisco ASA Firewall 5506-X**, aplicando ACLs estritas para isolamento de Intranet e proteção de DMZ.
-* **Análise Profunda de NAT/PAT:** Tradução dinâmica de endereços em Roteadores Wireless, analisando cabeçalhos *Inbound/Outbound*.
-* **Conectividade & Serviços de Rede:** Implementação de servidores **DHCPv4**, **HTTP** e conectividade **ICMPv4**.
-* **Mapeamento do Ecossistema Real:** Integração de conceitos globais como as RIRs (**AFRINIC/ICANN**), regulação pelo **INACOM** e o mercado de Telecomunicações em Angola.
 
 ---
 
