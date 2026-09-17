@@ -35,7 +35,7 @@ Como criador da série **Laboratórios Cisco NetAcad**, estruturei este projeto 
 | Recurso | Ação |
 | :--- | :--- |
 | **Arquivo do Lab (.pka)** | [![Baixar Laboratório](https://img.shields.io/badge/Download-Clique%20Aqui-green?style=for-the-badge&logo=cisco)](https://raw.githubusercontent.com/unknown-code7/coletando-informacoes-de-pdu---identificar-enderecos-mac-e-ip/main/Identify%20MAC%20and%20IP%20Addresses.pka) |
-| **Vídeo Explicativo** | [![Assistir Tutorial](https://img.shields.io/badge/Assistir_Tutorial-Clique_Aqui-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/share/v/1HrREZbA4B/) |
+| **Vídeo Explicativo** | [![Assistir Tutorial](https://img.shields.io/badge/Assistir_Tutorial-Clique_Aqui-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/share/v/1E38dUELg9/) |
 
 ---
 
